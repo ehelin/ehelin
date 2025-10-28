@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Eric Helin
 
-<!--
-**ehelin/ehelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer specializing in **.NET 8**, **Node.js/TypeScript**, and **Azure**.  
+I build scalable, cloud-native applications and integrate **AI systems** to make development smarter and faster.
 
-Here are some ideas to get you started:
+🚀 **Current interests**
+- Building autonomous summarization and AI project tracking tools (Python + . NET)
+- Exploring multi-agent architectures and developer productivity systems
+- Contributing to open-source back-end frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Tech Stack**
+`.NET 8` · `C#` · `Node.js` · `TypeScript` · `React/Angular` · `PostgreSQL` · `Azure` · `AI/ML`
+
+🌐 **Portfolio & Contact**
+[Website](https://erichelin.wordpress.com)  
+[LinkedIn](https://linkedin.com/in/eric-h-43647620)  
+[Email](mailto:your_email@example.com)
