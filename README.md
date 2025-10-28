@@ -12,6 +12,7 @@ I build scalable, cloud-native applications and integrate **AI systems** to make
 `.NET 8` · `C#` · `Node.js` · `TypeScript` · `React/Angular` · `PostgreSQL` · `Azure` · `AI/ML`
 
 🌐 ** Links **
+<br/>
 [Blog](https://erichelin.wordpress.com)  
 [LinkedIn](https://linkedin.com/in/eric-h-43647620)  
 [Email](mailto:your_email@example.com)
