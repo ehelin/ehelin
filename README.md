@@ -1,17 +1,41 @@
-# 👋 Hi, I'm Eric Helin
+# Eric Helin  
+**Full-stack Engineer — .NET 8 | Node.js | TypeScript | Azure | PostgreSQL | AI Systems**
 
-Full-stack engineer specializing in **.NET 8**, **Node.js/TypeScript**, and **Azure**.  
-I build scalable, cloud-native applications and integrate **AI systems** to make development smarter and faster.
+Full-stack engineer designing and deploying scalable, cloud-native, and AI-driven applications.  
+Specialized in backend architecture, API design, and intelligent automation that bridges .NET and JavaScript ecosystems.
 
-🚀 **Current interests**
-- Building autonomous summarization and AI project tracking tools (Python + . NET)
-- Exploring multi-agent architectures and developer productivity systems
-- Contributing to open-source back-end frameworks
+---
 
-🧰 **Tech Stack**
+## 💻 Currently Building
+- 🧠 **MCP-based AI summarization and monitoring tools** (Python + .NET)
+- ☁️ **Scalable .NET APIs** for startup-scale architectures
+- 🧩 **Habit Tracker and GitHub AI Aggregator** — exploring autonomous agent patterns
+
+---
+
+## 🧰 Tech Stack
 `.NET 8` · `C#` · `Node.js` · `TypeScript` · `React/Angular` · `PostgreSQL` · `Azure` · `AI/ML`
 
-🌐 ** Links **
-<br/>
-[Blog](https://erichelin.wordpress.com)  
-[LinkedIn](https://linkedin.com/in/eric-h-43647620)  
+---
+
+## 🏆 Highlights
+- 10+ years building backend and full-stack systems (.NET / TypeScript)  
+- Experienced in Azure DevOps, CI/CD pipelines, and PostgreSQL performance tuning  
+- Proven ability to design AI-assisted developer tools and system automation  
+- Advocate for clean architecture, observability, and pragmatic AI integration  
+
+---
+
+## 🚀 Current Interests
+- Multi-agent systems and AI-driven developer productivity  
+- Open-source backend frameworks and dev tooling  
+- Bridging business intelligence and applied AI  
+
+---
+
+## 🔗 Connect
+[Blog](https://erichelin.wordpress.com) · [LinkedIn](https://linkedin.com/in/eric-h-43647620)
+
+---
+
+> “Code is structure; presence is awareness. I build where they meet.”
