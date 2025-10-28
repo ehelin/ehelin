@@ -15,4 +15,3 @@ I build scalable, cloud-native applications and integrate **AI systems** to make
 <br/>
 [Blog](https://erichelin.wordpress.com)  
 [LinkedIn](https://linkedin.com/in/eric-h-43647620)  
-[Email](mailto:your_email@example.com)
